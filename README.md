@@ -14,7 +14,7 @@ Assignment 2 (Implemented on Google Cloud. Completed in April 2017):
 - Q2: Batch Normalization (BatchNormalization_Toan.ipynb)
 - Q3: Dropout (Dropout_Toan.ipynb)
 - Q4: Convolutional Networks (ConvolutionalNetworks_Toan.ipynb)
-- Q5: TensorFlow on CIFAR-10 (Tensorflow_Toan.py). Best performance using a simplified ResNet: **Overall loss = 0.87 and Accuracy of 0.782**
+- Q5: TensorFlow on CIFAR-10 (Tensorflow_Toan.py). Best performance using a simplified ResNet: **Accuracy of 78.2%**
 
 Assignment 3 (Implemented on med2lab.com GPU server. In progress as of May 2017):
 - Q1: Image Captioning with Vanilla RNNs on MS-COCO data (RNN_Captioning_Toan.ipynb)
