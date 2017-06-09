@@ -14,12 +14,13 @@ Assignment 2 (Implemented on Google Cloud. Completed in April 2017):
 - Q2: Batch Normalization (BatchNormalization_Toan.ipynb)
 - Q3: Dropout (Dropout_Toan.ipynb)
 - Q4: Convolutional Networks (ConvolutionalNetworks_Toan.ipynb)
-- Q5: TensorFlow on CIFAR-10 (Tensorflow_Toan.py). Best performance using a simplified ResNet: **Accuracy of 78.2%**
+- Q5: TensorFlow on CIFAR-10 (Tensorflow_Toan.ipynb). Best performance using a simplified ResNet: **Accuracy of 80.1%**
+- Q5b: PyTorch on CIFAR-10 (PyTorch_Toan.ipynb). Experiment classfication with PyTorch. Attempted transfer-learning but needed a 224x224 image set
 
 Assignment 3 (Implemented on med2lab.com GPU server. In progress as of May 2017):
 - Q1: Image Captioning with Vanilla RNNs on MS-COCO data (RNN_Captioning_Toan.ipynb)
 - Q2: Image Captioning with Long-Short Term Memory (LSTM) RNNs on MS-COCO data (LSTM_Captioning_Toan.ipynb)
-- Q3: Network Visualization: Saliency maps, Class Visualization, and Fooling Images. *Introduce the pretrained SqueezeNet model, compute gradients with respect to images, and use them to produce saliency maps and fooling images* (In progress)
+- Q3: **(Completed in PyTorch)** Network Visualization: Saliency maps, Class Visualization, and Fooling Images. *Introduce the pretrained SqueezeNet model, compute gradients with respect to images, and use them to produce saliency maps and fooling images* (NetworkVisualization-PyTorch_Toan.ipynb)
 - Q4: Style Transfer. *Learn how to create images with the content of one image but the style of another* (In progress)
 - Q5: Generative Adversarial Networks. *Learn how to generate images that match a training dataset, and use these models to improve classifier performance when training on a large amount of unlabeled data and a small amount of labeled data* (In progress)
 
