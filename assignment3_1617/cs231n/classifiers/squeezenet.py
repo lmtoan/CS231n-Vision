@@ -106,6 +106,6 @@ class SqueezeNet(object):
 
         if save_path is not None:
             saver = tf.train.import_meta_graph(save_path)
-            saver.restore(sess, tf.train.latest_checkpoint('./squeezenet.ckpt.data-00000-of-00001'))
+            saver.restore(sess, './squeezenet.ckpt')
             
         self.loss = tf.reduce_mean(tf.nn.softmax_cross_entropy_with_logits(labels=tf.one_hot(self.labels, NUM_CLASSES), logits=self.classifier))
