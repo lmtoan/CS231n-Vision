@@ -17,7 +17,7 @@ Assignment 2 (Implemented on Google Cloud. Completed in April 2017):
 - Q5: TensorFlow on CIFAR-10 (Tensorflow_Toan.ipynb). Best performance using a simplified ResNet: **Accuracy of 80.1%**
 - Q5b: PyTorch on CIFAR-10 (PyTorch_Toan.ipynb). Experiment classfication with PyTorch. Attempted transfer-learning but needed a 224x224 image set
 
-Assignment 3 (Implemented on med2lab.com GPU server. In progress as of May 2017):
+Assignment 3 (Implemented on med2lab.com GPU server. Completed as of July 2017):
 - Q1: Image Captioning with Vanilla RNNs on MS-COCO data (RNN_Captioning_Toan.ipynb)
 - Q2: Image Captioning with Long-Short Term Memory (LSTM) RNNs on MS-COCO data (LSTM_Captioning_Toan.ipynb)
 - Q3: **(Completed in PyTorch)** Network Visualization: Saliency maps, Class Visualization, and Fooling Images. *Introduce the pretrained SqueezeNet model, compute gradients with respect to images, and use them to produce saliency maps and fooling images* (NetworkVisualization-PyTorch_Toan.ipynb)
