@@ -15,7 +15,7 @@ Assignment 2 (Implemented on Google Cloud. Completed in April 2017):
 - Q3: Dropout (Dropout_Toan.ipynb)
 - Q4: Convolutional Networks (ConvolutionalNetworks_Toan.ipynb)
 - Q5: TensorFlow on CIFAR-10 (Tensorflow_Toan.ipynb). Best performance using a simplified ResNet: **Accuracy of 80.1%**
-- Q5b: PyTorch on CIFAR-10 (PyTorch_Toan.ipynb). Experiment classfication with PyTorch. Attempted transfer-learning but needed a 224x224 image set
+- Q5b: PyTorch on CIFAR-10 (PyTorch_Toan.ipynb). Experiment classfication with PyTorch. **ResNet 18 yielded 87.1% after 100 epoches**
 
 Assignment 3 (Implemented on med2lab.com GPU server. Completed as of July 2017):
 - Q1: Image Captioning with Vanilla RNNs on MS-COCO data (RNN_Captioning_Toan.ipynb)
