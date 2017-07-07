@@ -21,7 +21,6 @@ Assignment 3 (Implemented on med2lab.com GPU server. In progress as of May 2017)
 - Q1: Image Captioning with Vanilla RNNs on MS-COCO data (RNN_Captioning_Toan.ipynb)
 - Q2: Image Captioning with Long-Short Term Memory (LSTM) RNNs on MS-COCO data (LSTM_Captioning_Toan.ipynb)
 - Q3: **(Completed in PyTorch)** Network Visualization: Saliency maps, Class Visualization, and Fooling Images. *Introduce the pretrained SqueezeNet model, compute gradients with respect to images, and use them to produce saliency maps and fooling images* (NetworkVisualization-PyTorch_Toan.ipynb)
-- Q4: Style Transfer. *Learn how to create images with the content of one image but the style of another* (In progress)
-- Q5: Generative Adversarial Networks. *Learn how to generate images that match a training dataset, and use these models to improve classifier performance when training on a large amount of unlabeled data and a small amount of labeled data* (In progress)
-
+- Q4: **(Completed in PyTorch)** Style Transfer. *Learn how to create images with the content of one image but the style of another*
+- Q5: **(Completed in PyTorch)** Generative Adversarial Networks. *Learn how to generate images that match a training dataset, and use these models to improve classifier performance when training on a large amount of unlabeled data and a small amount of labeled data*
 
